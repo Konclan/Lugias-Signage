@@ -1,4 +1,10 @@
 "LightmappedGeneric"
 {
 	"$basetexture" "BEE2/signage/gravity_gun"
+$surfaceprop glass
+$selfillum 1
+$decal 1
+%nopaint 1
+%noportal 1
+"%keywords" portal2
 }
