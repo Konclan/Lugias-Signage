@@ -1,0 +1,354 @@
+"ID" "Lugias_Signage"
+"Name" "Lugia's Signage"
+"Desc" "This package contains original arrow signage, few Portal 1 signages, some custom signage by me and two signages by Fajr#6854 - he made rocket turret and fizzler signages for me, thanks a lot again dude!"
+"Signage"
+{
+"ID" "SIGN_ARROW_LEFT"
+"Name" "Arrow Left"
+"Styles"
+{
+"BEE2_CLEAN"
+{
+"overlay" "BEE2/signage/arrow_left"
+"icon" "items/clean/BEE/signage/arrow_left.png"
+}
+}
+}
+"Signage"
+{
+"ID" "SIGN_ARROW_RIGHT"
+"Name" "Arrow Right"
+"Styles"
+{
+"BEE2_CLEAN"
+{
+"overlay" "BEE2/signage/arrow_right"
+"icon" "items/clean/BEE/signage/arrow_right.png"
+}
+}
+}
+"Signage"
+{
+"ID" "SIGN_ARROW_UP"
+"Name" "Arrow Up"
+"Styles"
+{
+"BEE2_CLEAN"
+{
+"overlay" "BEE2/signage/arrow_up"
+"icon" "items/clean/BEE/signage/arrow_up.png"
+}
+}
+}
+"Signage"
+{
+"ID" "SIGN_ARROW_DOWN"
+"Name" "Arrow Down"
+"Styles"
+{
+"BEE2_CLEAN"
+{
+"overlay" "BEE2/signage/arrow_down"
+"icon" "items/clean/BEE/signage/arrow_down.png"
+}
+}
+}
+"Signage"
+{
+"ID" "SIGN_BOMB_TARGET"
+"Name" "Bomb Target"
+"Styles"
+{
+"BEE2_CLEAN"
+{
+"overlay" "BEE2/signage/bomb_target"
+"icon" "items/clean/BEE/signage/bomb_target.png"
+}
+}
+}
+"Signage"
+{
+"ID" "SIGN_BOMB_DROPPER"
+"Name" "Bomb Dropper"
+"Styles"
+{
+"BEE2_CLEAN"
+{
+"overlay" "BEE2/signage/bomb_dropper"
+"icon" "items/clean/BEE/signage/bomb_dropper.png"
+}
+}
+}
+"Signage"
+{
+"ID" "SIGN_SOLID_FIELD_LEFT"
+"Name" "Closed Solid Field Left"
+"Styles"
+{
+"BEE2_CLEAN"
+{
+"overlay" "BEE2/signage/closed_solid_field_left"
+"icon" "items/clean/BEE/signage/closed_solid_field_left.png"
+}
+}
+}
+"Signage"
+{
+"ID" "SIGN_SOLID_FIELD_RIGHT"
+"Name" "Closed Solid Field Right"
+"Styles"
+{
+"BEE2_CLEAN"
+{
+"overlay" "BEE2/signage/closed_solid_field_right"
+"icon" "items/clean/BEE/signage/closed_solid_field_right.png"
+}
+}
+}
+"Signage"
+{
+"ID" "SIGN_CUBE_DEFLECTOR"
+"Name" "Cube Deflector"
+"Styles"
+{
+"BEE2_CLEAN"
+{
+"overlay" "BEE2/signage/cube_deflector"
+"icon" "items/clean/BEE/signage/cube_deflector.png"
+}
+}
+}
+"Signage"
+{
+"ID" "SIGN_ELECTRICITY_PAD"
+"Name" "Electricity Pad"
+"Styles"
+{
+"BEE2_CLEAN"
+{
+"overlay" "BEE2/signage/electricity_pad"
+"icon" "items/clean/BEE/signage/electricity_pad.png"
+}
+}
+}
+"Signage"
+{
+"ID" "SIGN_UNST_SCAFFOLD"
+"Name" "Unstationary Scaffold"
+"Styles"
+{
+"BEE2_CLEAN"
+{
+"overlay" "BEE2/signage/unstationary_scaffold"
+"icon" "items/clean/BEE/signage/unstationary_scaffold.png"
+}
+}
+}
+"Signage"
+{
+"ID" "SIGN_WIND_TUBE"
+"Name" "Wind Tube"
+"Styles"
+{
+"BEE2_CLEAN"
+{
+"overlay" "BEE2/signage/wind_tube"
+"icon" "items/clean/BEE/signage/wind_tube.png"
+}
+}
+}
+"Signage"
+{
+"ID" "SIGN_TURRET_DETECTOR"
+"Name" "Turret Detector"
+"Styles"
+{
+"BEE2_CLEAN"
+{
+"overlay" "BEE2/signage/turret_detector"
+"icon" "items/clean/BEE/signage/turret_detector.png"
+}
+}
+}
+"Signage"
+{
+"ID" "SIGN_PISTON_STAIRS"
+"Name" "Piston Stairs"
+"Styles"
+{
+"BEE2_CLEAN"
+{
+"overlay" "BEE2/signage/piston_stairs"
+"icon" "items/clean/BEE/signage/piston_stairs.png"
+}
+}
+}
+"Signage"
+{
+"ID" "SIGN_GRAVITY_GUN"
+"Name" "Gravity Gun"
+"Styles"
+{
+"BEE2_CLEAN"
+{
+"overlay" "BEE2/signage/gravity_gun"
+"icon" "items/clean/BEE/signage/gravity_gun.png"
+}
+}
+}
+"Signage"
+{
+"ID" "SIGN_FIRE_PANEL"
+"Name" "Fire Panel"
+"Styles"
+{
+"BEE2_CLEAN"
+{
+"overlay" "BEE2/signage/fire_panel"
+"icon" "items/clean/BEE/signage/fire_panel.png"
+}
+}
+}
+"Signage"
+{
+"ID" "SIGN_COMP_CUBE"
+"Name" "Companion Cube"
+"Styles"
+{
+"BEE2_CLEAN"
+{
+"overlay" "BEE2/signage/companion_cube"
+"icon" "items/clean/BEE/signage/companion_cube.png"
+}
+}
+}
+"Signage"
+{
+"ID" "SIGN_COMP_CUBE_BROKEN"
+"Name" "Companion Cube Broken"
+"Styles"
+{
+"BEE2_CLEAN"
+{
+"overlay" "BEE2/signage/companion_cube_broken"
+"icon" "items/clean/BEE/signage/companion_cube_broken.png"
+}
+}
+}
+"Signage"
+{
+"ID" "SIGN_INCINERATOR"
+"Name" "Incinerator"
+"Styles"
+{
+"BEE2_CLEAN"
+{
+"overlay" "BEE2/signage/incinerator"
+"icon" "items/clean/BEE/signage/incinerator.png"
+}
+}
+}
+"Signage"
+{
+"ID" "SIGN_BUMBLEBALL"
+"Name" "BumbleBall"
+"Styles"
+{
+"BEE2_CLEAN"
+{
+"overlay" "BEE2/signage/bumbleball"
+"icon" "items/clean/BEE/signage/bumbleball.png"
+}
+}
+}
+"Signage"
+{
+"ID" "SIGN_POSIT_ENERGY_ORB"
+"Name" "Positronic Energy Orb"
+"Styles"
+{
+"BEE2_CLEAN"
+{
+"overlay" "BEE2/signage/positronic_energy_orb"
+"icon" "items/clean/BEE/signage/positronic_energy_orb.png"
+}
+}
+}
+"Signage"
+{
+"ID" "SIGN_ROCKET_TURRET"
+"Name" "Rocket Turret"
+"Styles"
+{
+"BEE2_CLEAN"
+{
+"overlay" "BEE2/signage/rocket_turret"
+"icon" "items/clean/BEE/signage/rocket_turret.png"
+}
+}
+}
+"Signage"
+{
+"ID" "SIGN_LIFEFORM_SENSOR"
+"Name" "Lifeform Sensor"
+"Styles"
+{
+"BEE2_CLEAN"
+{
+"overlay" "BEE2/signage/lifeform_sensor"
+"icon" "items/clean/BEE/signage/lifeform_sensor.png"
+}
+}
+}
+"Signage"
+{
+"ID" "SIGN_VACTUBE"
+"Name" "Vactube"
+"Styles"
+{
+"BEE2_CLEAN"
+{
+"overlay" "BEE2/signage/vactube"
+"icon" "items/clean/BEE/signage/vactube.png"
+}
+}
+}
+"Signage"
+{
+"ID" "SIGN_LUGIAS_FIZZLER"
+"Name" "Fizzler"
+"Styles"
+{
+"BEE2_CLEAN"
+{
+"overlay" "BEE2/signage/lugias_fizzler"
+"icon" "items/clean/BEE/signage/lugias_fizzler.png"
+}
+}
+}
+"Signage"
+{
+"ID" "SIGN_FLUX_RECTANGLE"
+"Name" "Radiative Flux Rectangle"
+"Styles"
+{
+"BEE2_CLEAN"
+{
+"overlay" "BEE2/signage/radiative_flux_rectangle"
+"icon" "items/clean/BEE/signage/radiative_flux_rectangle.png"
+}
+}
+}
+"Signage"
+{
+"ID" "SIGN_SAVE_POINT"
+"Name" "Save Point"
+"Styles"
+{
+"BEE2_CLEAN"
+{
+"overlay" "BEE2/signage/save_point"
+"icon" "items/clean/BEE/signage/save_point.png"
+}
+}
+}
